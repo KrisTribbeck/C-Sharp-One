@@ -1,0 +1,30 @@
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe.config
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.pdb
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.AssemblyReference.cache
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Application1.resources
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Properties.Resources.resources
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.GenerateResource.cache
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.CoreCompileInputs.cache
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.exe
+E:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.pdb
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe.config
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.pdb
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.AssemblyReference.cache
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Application1.resources
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Properties.Resources.resources
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.GenerateResource.cache
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.CoreCompileInputs.cache
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.exe
+H:\TAFE\Cluster - C Sharp One\Assessment\Assessment Files\Sprint1\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.pdb
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe.config
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.pdb
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.AssemblyReference.cache
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Application1.resources
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Properties.Resources.resources
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.GenerateResource.cache
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.exe
+C:\Users\krist\Downloads\AssessmentTwoSprint\Sprint 1\Version 3\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.pdb
